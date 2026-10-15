@@ -1,0 +1,4 @@
+# Bundle patch: inserts this plugin into the profile layer stack.
+- insert:
+    - id: dsh-context-budget
+      name: dsh-context-budget
