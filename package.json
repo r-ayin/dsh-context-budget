@@ -1,6 +1,6 @@
 {
   "name": "dsh-context-budget",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ports the Codex CLI TokenBudget mechanism to dsh: remaining-context awareness, archive rollover, and notes/history retrieval tools for past sessions.",
   "private": true,
   "type": "module",
